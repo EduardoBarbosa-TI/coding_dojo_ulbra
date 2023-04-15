@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "01",
+        "nome" : "Pinho",
+        "piloto" : {
+            "nome" : "Ramonzera",
+            "idade" : "32",
+            "experiencia" : "6 anos"
+        },
+        "caracteristicas" : {
+            "cor" : "Preto"        
+        }
+    },
+    {
+        "id" : "02",
+        "nome" : "Mickey",
+        "piloto" : {
+            "nome" : "Eduardo",
+            "idade" : "21",
+            "experiencia" : "4 anos"
+        },
+        "caracteristicas" : {
+            "cor" : "Azul"        
+        }
+    },
+    {
+        "id" : "03",
+        "nome" : "Ulbra",
+        "piloto" : {
+            "nome" : "Paulao",
+            "idade" : "37",
+            "experiencia" : "8 anos"
+        },
+        "caracteristicas" : {
+            "cor" : "Vermelho"        
+        }
+    },
+    {
+        "id" : "04",
+        "nome" : "Dinossauro",
+        "piloto" : {
+            "nome" : "Ricardo Jobim",
+            "idade" : "23",
+            "experiencia" : "3 anos"
+        },
+        "caracteristicas" : {
+            "cor" : "Marrom"        
+        }
+    }
+]
